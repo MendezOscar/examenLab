@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1400541967 source:/home/mendez/Documents/Examen1_lab/burbuja.cpp
+	"burbuja.h"
+
+1400693027 /home/mendez/Documents/Examen1_lab/burbuja.h
+	<list>
+	<SDL/SDL.h>
+	<iostream>
+
+1400828989 source:/home/mendez/Documents/Examen1_lab/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<string>
+	"burbuja_loca.h"
+	<vector>
+	<algorithm>
+	<sstream>
+	<fstream>
+	"burbuja_oro.h"
+	"burbuja_malvada.h"
+	"burbuja_explosiva.h"
+	"burbuja_congelada.h"
+	"bubuja_normal.h"
+	<list>
+	<stdlib.h>
+
+1400693101 source:/home/mendez/Documents/Examen1_lab/bubuja_normal.cpp
+	"bubuja_normal.h"
+
+1400693121 /home/mendez/Documents/Examen1_lab/bubuja_normal.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
+1400693027 source:/home/mendez/Documents/Examen1_lab/burbuja_explosiva.cpp
+	"burbuja_explosiva.h"
+
+1400692987 /home/mendez/Documents/Examen1_lab/burbuja_explosiva.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
+1400693026 source:/home/mendez/Documents/Examen1_lab/burbuja_malvada.cpp
+	"burbuja_malvada.h"
+
+1400692989 /home/mendez/Documents/Examen1_lab/burbuja_malvada.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
+1400693027 source:/home/mendez/Documents/Examen1_lab/burbuja_congelada.cpp
+	"burbuja_congelada.h"
+
+1400692999 /home/mendez/Documents/Examen1_lab/burbuja_congelada.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
+1400707325 source:/home/mendez/Documents/Examen1_lab/burbuja_oro.cpp
+	"burbuja_oro.h"
+
+1400707116 /home/mendez/Documents/Examen1_lab/burbuja_oro.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
+1400815085 source:/home/mendez/Documents/Examen1_lab/burbuja_loca.cpp
+	"burbuja_loca.h"
+
+1400814974 /home/mendez/Documents/Examen1_lab/burbuja_loca.h
+	<list>
+	"burbuja.h"
+	<SDL/SDL.h>
+
